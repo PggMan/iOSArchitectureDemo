@@ -4,35 +4,35 @@ MVC、MVP、MVVM
 
 ## MVC -Apple
 
-#### <font color=#037aff  face="黑体">Model</font>
+#### Model
 * `MVC_Model`
 
-#### <font color=#037aff  face="黑体">View/font>
+#### View
 * `MVC_View`
 
-#### <font color=#037aff  face="黑体">Controller/font>
+#### Controller
 * `MVC_ViewController`
 
 ## MVP
 
-#### <font color=#037aff  face="黑体">Model</font>
+#### Model
 * `MVP_Model`
 
-#### <font color=#037aff  face="黑体">View/font>
+#### View
 * `MVP_View`
 
-#### <font color=#037aff  face="黑体">Presenter/font>
+#### Presenter
 * `PGMyPresenter`
 
 ## MVVM 
 
-#### <font color=#037aff  face="黑体">Model</font>
+#### Model
 * `MVVM_Model`
 
-#### <font color=#037aff  face="黑体">View/font>
+#### View
 * `MVVM_View`
 
-#### <font color=#037aff  face="黑体">ViewModel/font>
+#### ViewModel
 * `MVVM_ViewModel`
   
   
