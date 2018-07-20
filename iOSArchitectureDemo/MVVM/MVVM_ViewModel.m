@@ -33,7 +33,6 @@
             appView.clickViewBlock = ^{
                 NSLog(@"viewModel 监听了 appView 的点击");
             };
-            
             appView;
         })];
     }
